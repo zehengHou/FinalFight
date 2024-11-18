@@ -6,11 +6,12 @@ plugins {
 
 android {
     namespace = "com.aliedz.zlieda.fight"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.aliedz.zlieda.fight"
         minSdk = 24
+        //noinspection OldTargetApi
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
