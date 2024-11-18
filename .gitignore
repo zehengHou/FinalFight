@@ -1,0 +1,66 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android Studio specific
+.idea/
+.gradle/
+build/
+/.vscode/
+
+# User-specific files
+*.log
+*.bak
+*.swp
+
+# Gradle specific
+!gradle-wrapper.jar
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.keystore
+*.jks
+
+# External native build folder generated in Android Studio 2.x
+.externalNativeBuild/
+
+# NDK
+obj/
+
+# IDE directories
+*.iws
+*.ipr
+
+# Android Emulator
+*.avd/
+*.idea/
+
+# Google Cloud Tools for Android
+gcloud/
+
+# Temporary files
+*.swo
+
+# Gradle wrapper
+gradle-wrapper.jar
+
+# Environment files
+.env
+
